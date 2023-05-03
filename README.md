@@ -12,7 +12,7 @@ Sistema de uso diverso para a resolução de equações matemática. Sob tutoria
 - Somar
 - Multiplicar
 - Dividir
-- Supbtrair
+- Subtrair
 
 ## License
 
